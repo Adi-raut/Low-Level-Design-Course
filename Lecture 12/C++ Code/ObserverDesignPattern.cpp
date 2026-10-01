@@ -5,6 +5,7 @@
 
 using namespace std;
 
+// Adding a comment to see the git diff
 class ISubscriber {
 public:
     virtual void update() = 0;
